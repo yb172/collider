@@ -1,0 +1,5 @@
+- element: uranium
+  level: {
+    "What are you doing here": ?
+    "You shouldn't have any access to these materials": "Please leave the room" 
+  }
